@@ -35,9 +35,16 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A declaration of the kings pleasure published after his departure from Paris, importing the cause of
+
 #####Body#####
-A declaration of the kings pleasure published after his departure from Paris, importing the cause of
+
+1. ¶A DECLARAtion
+of the Kinges pleaſure,
+publiſhed after his departure
+from Paris: importing the
+cauſe of his ſudden and forced
+going away.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
